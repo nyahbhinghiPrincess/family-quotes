@@ -1,0 +1,64 @@
+/***** Font Families to Choose are:
+font-family: 'Bellefair', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Average', serif;
+font-family: 'Indie Flower', cursive;
+*****/
+
+html {
+	margin: 0px;
+}
+
+body {
+	font-family: 'Oswald'; sans-serif;
+	margin: 300px;
+}
+
+div, p {
+	text-align: justify;
+	text-transform: uppercase;
+	font-size:  18px;
+	padding: 0px;
+	margin: 0px;
+}
+
+/***** Text Alignment *****/
+
+.half-width {
+	float: left;
+	width: 50%;
+}
+
+.full-width {
+	clear: both;
+	width: 100%;
+}
+
+/***** Span Emphasis Styles *****/
+
+.emphasis-1 {
+	font-size: 30px;
+}
+
+.emphasis-2 {
+	font-size: 60px;
+}
+
+.emphasis-3 {
+	font-size: 40px;
+}
+
+.emphasis-4 {
+	font-size: 25px;
+}
+
+.emphasis-5 {
+	font-size: 30px;
+}
+
+/***** Contact Section *****/
+
+footer {
+	float: right;
+	clear: left;
+}
